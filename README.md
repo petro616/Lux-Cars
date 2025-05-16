@@ -14,29 +14,25 @@ The backend is built with pure PHP, and the database is hosted on a VPS from Nam
 - **Image Loading**: CachedNetworkImage for efficient image caching and better performance  
 
 ## Installation Instructions  
-To install and run the app locally, follow these steps:  
+To install and run the apps locally, follow these steps:  
 
 1. Clone the repository:  
-
    ```bash  
-   git clone <repository-url>  
-
-3. Navigate to the project directory:
-
-   ```bash
-   cd lux_car  
-5. Install dependencies:
-
-   ```bash
+   git clone <git@github.com:petro616/Symprax.git>  
+   ```  
+2. Navigate to the project directory:  
+   ```bash  
+   cd symprax  
+   ```  
+3. Install dependencies:  
+   ```bash  
    flutter pub get  
-7. Run the application:
-
-   ```bash
+   ```  
+4. Run the application:  
+   ```bash  
    flutter run  
-9. Set up the backend:
-   - **Use XAMPP or any local server environment (localhost/phpmyadmin)**
-   - **Configure the PHP backend and connect it to your local database**
-   - **.Ensure the APIs are accessible to the Flutter app**
+   ```
+   
 ## Usage
 Lux Car (User App)
 Home Page:
