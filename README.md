@@ -57,10 +57,14 @@ To install and run the apps locally, follow these steps:
 - Designed to provide powerful user experience with smooth navigation and fast performance.
 
 ## Unique Features
-- **Performance Optimized:** Using CachedNetworkImage to reduce network calls and enhance app speed.
-- **Clean Architecture:** Cubit for state management ensures maintainable and scalable code.
-- **Efficient Networking:** Retrofit handles API calls cleanly and effectively.
-- **Database Indexing:** Backend uses indexing for faster query performance and scalability.
+- **Performance Optimized**: Using CachedNetworkImage to reduce network calls and enhance app speed.
+- **Clean Architecture**: App follows Clean Architecture principles for better separation of concerns and scalability.
+- **SOLID Principles**: The code is written with SOLID principles to ensure maintainable and extensible logic.
+- **Efficient Networking**: Retrofit handles API calls cleanly and effectively.
+- **Database Indexing**: Backend uses indexing for faster query performance and scalability..
+
+## Architecture Overview
+This project is built using **Clean Architecture**, separating UI, business logic, and data layers for scalability and maintainability.
 
 ## Future Improvements
 - Publish the app on Google Play Store to reach a wider audience.
