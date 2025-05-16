@@ -5,6 +5,32 @@ The **Lux Car** project is a Flutter-based mobile application designed to make c
 The app provides a seamless UI and powerful UX for browsing cars categorized by type, with smooth search functionality and detailed listings.  
 The backend is built with pure PHP, and the database is hosted on a VPS from Namecheap.  
 
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>🏎 OnBoarding</strong><br>
+      <img src="Cars/assets/screenshoots/photo_2025-05-16_08-10-56.jpg" width="200"/>
+    </td>
+    <td align="center">
+      <strong>🏠 Home Page</strong><br>
+      <img src="Cars/assets/screenshoots/photo_2025-05-16_08-10-45.jpg" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>🚘 Car Details</strong><br>
+      <img src="Cars/assets/screenshoots/photo_2025-05-16_08-11-02.jpg" width="200"/>
+    </td>
+    <td align="center">
+      <strong>📂 Categories View</strong><br>
+      <img src="Cars/assets/screenshoots/photo_2025-05-16_08-10-51.jpg" width="200"/>
+    </td>
+  </tr>
+</table>
+
+
 ## Technologies Used  
 - **Front-end**: Flutter, Dart  
 - **Back-end**: Pure PHP  
@@ -70,33 +96,6 @@ This project is built using **Clean Architecture**, separating UI, business logi
 - Publish the app on Google Play Store to reach a wider audience.
 - Add new features like user authentication, advanced filtering, and notifications.
 - Support multiple languages and improve UX based on user feedback.
-
-## 📸 Screenshots
-
-<table>
-  <tr>
-    <td align="center">
-      <strong>🏎 OnBoarding</strong><br>
-      <img src="Cars/assets/screenshoots/photo_2025-05-16_08-10-56.jpg" width="200"/>
-    </td>
-    <td align="center">
-      <strong>🏠 Home Page</strong><br>
-      <img src="Cars/assets/screenshoots/photo_2025-05-16_08-10-45.jpg" width="200"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>🚘 Car Details</strong><br>
-      <img src="Cars/assets/screenshoots/photo_2025-05-16_08-11-02.jpg" width="200"/>
-    </td>
-    <td align="center">
-      <strong>📂 Categories View</strong><br>
-      <img src="Cars/assets/screenshoots/photo_2025-05-16_08-10-51.jpg" width="200"/>
-    </td>
-  </tr>
-</table>
-
-
 
 ## Contributing
 Contributions are welcome! If you want to contribute:  
