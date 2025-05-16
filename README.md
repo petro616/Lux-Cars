@@ -17,19 +17,23 @@ The backend is built with pure PHP, and the database is hosted on a VPS from Nam
 To install and run the apps locally, follow these steps:  
 
 1. Clone the repository:  
-   ```bash  
+   ```bash
+   
    git clone <git@github.com:petro616/Symprax.git>  
    ```  
 2. Navigate to the project directory:  
-   ```bash  
+   ```bash
+     
    cd symprax  
    ```  
 3. Install dependencies:  
-   ```bash  
+   ```bash
+   
    flutter pub get  
    ```  
 4. Run the application:  
-   ```bash  
+   ```bash
+     
    flutter run  
    ```
    
