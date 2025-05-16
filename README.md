@@ -73,17 +73,17 @@ This project is built using **Clean Architecture**, separating UI, business logi
 
 ## 📸 Screenshots
 
+### 🏎 OnBoarding
+![OnBoarding](assets/screenshoots/photo_2025-05-16_08-10-56.jpg)
+
 ### 🏠 Home Page
-![Home Page](assets/screenshots/home.png)
+![Home Page](assets/screenshoots/photo_2025-05-16_08-10-45.jpg)
 
 ### 🚘 Car Details Page
-![Car Details](assets/screenshots/details.png)
-
-### 🔍 Search Function
-![Search](assets/screenshots/search.png)
+![Car Details](assets/screenshoots/photo_2025-05-16_08-11-02.jpg)
 
 ### 📂 Categories View
-![Categories](assets/screenshots/categories.png)
+![Categories](assets/screenshoots/photo_2025-05-16_08-10-51.jpg)
 
 
 ## Contributing
