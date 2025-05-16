@@ -71,9 +71,20 @@ This project is built using **Clean Architecture**, separating UI, business logi
 - Add new features like user authentication, advanced filtering, and notifications.
 - Support multiple languages and improve UX based on user feedback.
 
-## Video Overview
-Check out the demo video of the Lux Car app:  
-[Insert your YouTube link here]
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](assets/screenshots/home.png)
+
+### 🚘 Car Details Page
+![Car Details](assets/screenshots/details.png)
+
+### 🔍 Search Function
+![Search](assets/screenshots/search.png)
+
+### 📂 Categories View
+![Categories](assets/screenshots/categories.png)
+
 
 ## Contributing
 Contributions are welcome! If you want to contribute:  
