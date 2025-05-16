@@ -1,0 +1,71 @@
+// GENERATED CODE - DO NOT MODIFY BY HAND
+
+part of 'home_model.dart';
+
+// **************************************************************************
+// JsonSerializableGenerator
+// **************************************************************************
+
+HomeModel _$HomeModelFromJson(Map<String, dynamic> json) => HomeModel(
+      cars_id: (json['cars_id'] as num?)?.toInt(),
+      cars_name: json['cars_name'] as String?,
+      cars_image: json['cars_image'] as String?,
+      cars_price: json['cars_price'] as String?,
+      cars_description: json['cars_description'] as String?,
+      cars_state: json['cars_state'] as String?,
+      cars_region: json['cars_region'] as String?,
+      cars_type: json['cars_type'] as String?,
+      cars_gear: json['cars_gear'] as String?,
+      cars_create_year: json['cars_create_year'] as String?,
+      cars_color: json['cars_color'] as String?,
+      cars_diesel: json['cars_diesel'] as String?,
+      cars_how_cc: json['cars_how_cc'] as String?,
+      cars_color_state: json['cars_color_state'] as String?,
+      cars_surface: json['cars_surface'] as String?,
+      cars_thing: json['cars_thing'] as String?,
+      cars_kilometrage: json['cars_kilometrage'] as String?,
+      cars_isfeatured: (json['cars_isfeatured'] as num?)?.toInt(),
+      cars_catego: (json['cars_catego'] as num?)?.toInt(),
+      categories_id: (json['categories_id'] as num?)?.toInt(),
+      categories_name: json['categories_name'] as String?,
+      categories_image: json['categories_image'] as String?,
+      categories_date_time: json['categories_date_time'] as String?,
+      products_id: (json['products_id'] as num?)?.toInt(),
+      products_itemsId: (json['products_itemsId'] as num?)?.toInt(),
+      products_image2: json['products_image2'] as String?,
+      products_image3: json['products_image3'] as String?,
+      products_image4: json['products_image4'] as String?,
+      products_image5: json['products_image5'] as String?,
+    );
+
+Map<String, dynamic> _$HomeModelToJson(HomeModel instance) => <String, dynamic>{
+      'cars_id': instance.cars_id,
+      'cars_name': instance.cars_name,
+      'cars_image': instance.cars_image,
+      'cars_price': instance.cars_price,
+      'cars_description': instance.cars_description,
+      'cars_state': instance.cars_state,
+      'cars_region': instance.cars_region,
+      'cars_type': instance.cars_type,
+      'cars_gear': instance.cars_gear,
+      'cars_create_year': instance.cars_create_year,
+      'cars_color': instance.cars_color,
+      'cars_diesel': instance.cars_diesel,
+      'cars_how_cc': instance.cars_how_cc,
+      'cars_color_state': instance.cars_color_state,
+      'cars_surface': instance.cars_surface,
+      'cars_thing': instance.cars_thing,
+      'cars_kilometrage': instance.cars_kilometrage,
+      'cars_isfeatured': instance.cars_isfeatured,
+      'cars_catego': instance.cars_catego,
+      'categories_id': instance.categories_id,
+      'categories_name': instance.categories_name,
+      'categories_image': instance.categories_image,
+      'categories_date_time': instance.categories_date_time,
+      'products_id': instance.products_id,
+      'products_itemsId': instance.products_itemsId,
+      'products_image2': instance.products_image2,
+      'products_image3': instance.products_image3,
+      'products_image4': instance.products_image4,
+      'products_image5': instance.products_image5,
+    };

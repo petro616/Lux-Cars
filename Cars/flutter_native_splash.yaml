@@ -1,0 +1,7 @@
+flutter_native_splash:
+  color: "#FFFFFF" 
+  image: "assets/images/ChatGPT Image May 4, 2025, 05_09_17 AM.png"
+  android: true
+  ios: true
+  android_gravity: center  
+  ios_content_mode: center   
