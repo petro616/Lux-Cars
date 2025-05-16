@@ -44,7 +44,7 @@ To install and run the apps locally, follow these steps:
 #### Home Page:
 - Browse cars through categories with smooth and clean UI.
 - Efficient search functionality for fast car filtering.
-- Display of cars carefully selected cars for user's convenience.
+- Display of cars carefully selected for user's convenience.
 
 #### Car Details:
 - View detailed information and photos of each car.
