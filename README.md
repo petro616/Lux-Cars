@@ -73,17 +73,29 @@ This project is built using **Clean Architecture**, separating UI, business logi
 
 ## 📸 Screenshots
 
-### 🏎 OnBoarding
-![OnBoarding](Cars/assets/screenshoots/photo_2025-05-16_08-10-56.jpg)
+<table>
+  <tr>
+    <td align="center">
+      <strong>🏎 OnBoarding</strong><br>
+      <img src="Cars/assets/screenshoots/photo_2025-05-16_08-10-56.jpg" width="200"/>
+    </td>
+    <td align="center">
+      <strong>🏠 Home Page</strong><br>
+      <img src="Cars/assets/screenshoots/photo_2025-05-16_08-10-45.jpg" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>🚘 Car Details</strong><br>
+      <img src="Cars/assets/screenshoots/photo_2025-05-16_08-11-02.jpg" width="200"/>
+    </td>
+    <td align="center">
+      <strong>📂 Categories View</strong><br>
+      <img src="Cars/assets/screenshoots/photo_2025-05-16_08-10-51.jpg" width="200"/>
+    </td>
+  </tr>
+</table>
 
-### 🏠 Home Page
-![Home Page](assets/screenshoots/photo_2025-05-16_08-10-45.jpg)
-
-### 🚘 Car Details Page
-![Car Details](assets/screenshoots/photo_2025-05-16_08-11-02.jpg)
-
-### 📂 Categories View
-![Categories](assets/screenshoots/photo_2025-05-16_08-10-51.jpg)
 
 
 ## Contributing
