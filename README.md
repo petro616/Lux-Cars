@@ -38,55 +38,41 @@ To install and run the apps locally, follow these steps:
    ```
    
 ## Usage
-Lux Car (User App)
-Home Page:
 
-Browse cars through categories with smooth and clean UI.
+### Lux Car (User App)
 
-Efficient search functionality for fast car filtering.
+#### Home Page:
+- Browse cars through categories with smooth and clean UI.
+- Efficient search functionality for fast car filtering.
 
-Car Details:
+#### Car Details:
+- View detailed information and photos of each car.
+- Images are cached using CachedNetworkImage for smooth and fast loading.
 
-View detailed information and photos of each car.
+#### Search and Categories:
+- Search by car name or filter by categories seamlessly.
 
-Images are cached using CachedNetworkImage for smooth and fast loading.
+#### UI/UX:
+- Designed to provide powerful user experience with smooth navigation and fast performance.
 
-Search and Categories:
+## Unique Features
+- **Performance Optimized:** Using CachedNetworkImage to reduce network calls and enhance app speed.
+- **Clean Architecture:** Cubit for state management ensures maintainable and scalable code.
+- **Efficient Networking:** Retrofit handles API calls cleanly and effectively.
+- **Database Indexing:** Backend uses indexing for faster query performance and scalability.
 
-Search by car name or filter by categories seamlessly.
+## Future Improvements
+- Publish the app on Google Play Store to reach a wider audience.
+- Add new features like user authentication, advanced filtering, and notifications.
+- Support multiple languages and improve UX based on user feedback.
 
-UI/UX:
-
-Designed to provide powerful user experience with smooth navigation and fast performance.
-
-Unique Features
-Performance Optimized: Using CachedNetworkImage to reduce network calls and enhance app speed.
-
-Clean Architecture: Cubit for state management ensures maintainable and scalable code.
-
-Efficient Networking: Retrofit handles API calls cleanly and effectively.
-
-Database Indexing: Backend uses indexing for faster query performance and scalability.
-
-Future Improvements
-Publish the app on Google Play Store to reach a wider audience.
-
-Add new features like user authentication, advanced filtering, and notifications.
-
-Support multiple languages and improve UX based on user feedback.
-
-Video Overview
-Check out the demo video of the Lux Car app:
+## Video Overview
+Check out the demo video of the Lux Car app:  
 [Insert your YouTube link here]
 
-Contributing
-Contributions are welcome! If you want to contribute:
+## Contributing
+Contributions are welcome! If you want to contribute:  
+- Fork the repository.  
+- Create a new branch for your feature or bug fix.  
+- Submit a pull request with a description of your changes.
 
-Fork the repository.
-
-Create a new branch for your feature or bug fix.
-
-Submit a pull request with a description of your changes.
-
-Copy
-Edit
