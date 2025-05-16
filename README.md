@@ -19,33 +19,20 @@ To install and run the app locally, follow these steps:
 1. Clone the repository:  
    ```bash  
    git clone <repository-url>  
-Navigate to the project directory:
-
-bash
-Copy
-Edit
-cd lux_car  
-Install dependencies:
-
-bash
-Copy
-Edit
-flutter pub get  
-Run the application:
-
-bash
-Copy
-Edit
-flutter run  
-Set up the backend:
-
-Use XAMPP or any local server environment (localhost/phpmyadmin).
-
-Configure the PHP backend and connect it to your local database.
-
-Ensure the APIs are accessible to the Flutter app.
-
-Usage
+2. Navigate to the project directory:
+   ```bash
+   cd lux_car  
+3. Install dependencies:
+   ```bash
+   flutter pub get  
+4. Run the application:
+   ```bash
+   flutter run  
+5. Set up the backend:
+   .Use XAMPP or any local server environment (localhost/phpmyadmin).
+   .Configure the PHP backend and connect it to your local database.
+   .Ensure the APIs are accessible to the Flutter app.
+## Usage
 Lux Car (User App)
 Home Page:
 
