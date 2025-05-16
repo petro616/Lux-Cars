@@ -19,12 +19,12 @@ To install and run the apps locally, follow these steps:
 1. Clone the repository:  
 
    ```bash 
-   git clone <git@github.com:petro616/Symprax.git>  
+   git clone <git@github.com:petro616/Lux-Cars.git>  
    ```  
 3. Navigate to the project directory:  
 
    ```bash  
-   cd symprax  
+   cd Cars  
    ```  
 5. Install dependencies:  
 
